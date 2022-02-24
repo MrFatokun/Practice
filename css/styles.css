@@ -1,0 +1,113 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1 {
+  margin: 75px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #416a59;
+}
+
+.firstside {
+  background-color: #EAF6F6;
+  display: block;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+.firstimg {
+  position: relative;
+  display: inline-block;
+  left: 30%;
+}
+
+.mypicture {
+  margin-top: 75px;
+  border-radius: 100%;
+  width: 200px;
+}
+
+.subhead {
+  color: #66BFBF;
+  font-size: 480%;
+  margin-top: 20px;
+margin-bottom: 8%;
+}
+.smallintro{
+color: #40514E;
+font-size: 30px;
+  margin: 2% 20% 5% 20%;
+}
+.headerruler {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 8px;
+  width: 5%;
+  margin-bottom: 60px;
+}
+.header3{
+  margin-left: 25%;
+margin-bottom: 10px;
+  font-size: 150%;
+  color: #66BFBF;
+}
+.dandd{
+  margin: 0 20% 10% 20%;
+  text-align:left;
+}
+.devimg{
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-bottom: 10%;
+  margin-right: 3%;
+}
+.danddnote{
+  margin-right: 20%;
+  font-size: 120%;
+  color: #40514E;
+}
+.teamwork{
+  border-radius: 10%;
+  width: 200px;
+  height: 150px;
+  float: right;
+  margin-bottom: 12%;
+  margin-left: 3%;
+}
+.scrum{
+  margin: 0 20% 10% 20%;
+  text-align:right;
+}
+.lasthead{
+  font-size: 250%;
+}
+.codandten{
+  color: #11999E;
+}
+.lastgraph{
+  font-size: 120%;
+  color: #40514E;
+}
+.contactme{
+font-size: 200%;
+  background-color: #11999E;
+  margin: 5% 41% 5% 41%;
+  border-radius: 10%
+}
+.bottom-container{
+  background-color: #EAF6F6;
+  display: block;
+}
+.footer-link{
+  font-size: 150%;
+  margin: 0 2% 0 2%;
+}
+.footer-link:hover{
+  color: black;
+}
